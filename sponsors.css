@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@600&family=Roboto:wght@400;500;700&display=swap');
+
+.txt{
+    font-size: 6em;
+    font-family: Readex Pro;
+    font-weight: 700;
+    color: white;
+    font-style: normal;
+}
+
+.txtx{
+    font-size: 3em;
+    font-family: Readex Pro;
+    font-weight: 700;
+    color: white;
+    font-style: normal;
+    width: 150vh;
+}
+
+.ongc{
+    display: grid;
+    grid-template-rows: auto;
+    height: 100vh;
+}
+
+.wynk{
+    display: grid;
+    grid-template-rows: auto;
+    min-height: 100vh;
+}
+
+.wynk-bp{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.collab{
+    display: grid;
+    grid-template-rows: auto;
+    min-height: 80vh;
+}
+
+.collab-pics{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.image{
+    width: 11em;
+    height: 10em;
+    object-fit: contain;
+    position: relative;
+}
+
+.sponsors{
+    align-items: center;
+    margin-bottom: 50vh;
+}
+
+.image1{
+    background-size: contain;
+    margin-top: 200px;
+    width: auto;
+    height: auto;
+}
